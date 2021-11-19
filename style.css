@@ -50,7 +50,7 @@ text-align: right;
     background: #c2382f;
     display: block;
     margin: auto;
-    transition: 0.5s;
+    transition: 350ms;
 }
 .nav-links ul li :hover::after{
     width: 100%;
